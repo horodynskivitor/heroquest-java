@@ -1,0 +1,18 @@
+Bem vindo a HeroQuest!
+
+
+Para se movimentar, digite   w (cima)  /  a (esquerda)  /  s (baixo)  /  d (direita).
+Se optar por livrar-se dos seus movimentos restantes determinados pelos dados vermelhos, digite u.
+Em situações em que apenas um ou menos item precisa ser selecionado, a seleção deste item é feita
+de forma automática.
+
+
+
+Por favor, escolha como deseja que o mundo seja gerado: 
+
+
+1 - Mapa padrão do jogo
+2 - Mapa gerado aleatoriamente
+	
+
+Digite 1 ou 2 para escolher: 
